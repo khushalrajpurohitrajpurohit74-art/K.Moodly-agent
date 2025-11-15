@@ -1,2 +1,3 @@
 # K.Moodly-agent
 "An AI-powered agent built for mental health support, offering real-time mood detection, personalized wellness tips, and privacy-first conversations. Designed to promote emotional well-being using generative AI and sentiment analysis. Created for Google Gen AI Capstone by Khushal rajpurohit."
+Key FeaturesReal-time mood detection using AI,Personalized wellness tips for emotional well-being,Privacy-first conversations ensuring user data security,Technology Stack-Generative AI models,Sentiment Analysis,Google Gen AI platform,Benefits-Provides accessible mental health support,Promotes emotional well-being,Designed for privacy and safety.
